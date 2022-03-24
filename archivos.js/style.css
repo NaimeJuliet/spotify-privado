@@ -1,0 +1,16 @@
+.fuente{
+    font-family: 'Courgette', cursive;
+    
+}
+
+.fondo{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,25,1) 58%, rgba(255,0,0,1) 100%);
+}
+
+.fondobanner{
+    background-image: url("img-spoty/gif/spotify.gif");
+    height: 200px; 
+    background-attachment: fixed;
+    background-position: top center;
+}
